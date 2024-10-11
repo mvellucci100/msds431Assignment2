@@ -26,7 +26,11 @@ This Go command-line application converts comma-separated values (CSV) files int
 
 ## Execution
 1. Build the application
+   
    go build -o Assignment2
-2. Run the Application
+   
+2.. Run the Application
+
    ./Assignment2 *path_to_csv* *path_to_output_file.jl*
+   
 3. Check your output file and view your json file
